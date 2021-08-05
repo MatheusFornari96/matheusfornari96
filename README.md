@@ -1,29 +1,14 @@
-### Hi there 👋
-## Olá! Sou o Matheus e bem vindo(a) ao meu Github 🤓
 
-<div>
-  <a href="https://www.instagram.com/fornariii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto: matheuskanop@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/gabriela-lima-vaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-  <a href="https://codepen.io/gab-codes" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
-</div>
+## Olá!👋  
+## Sou o Matheus e bem vindo(a) ao meu Github 🤓
+
+<ul>
+  <li>💻 Analista Implantação desde 20</li>
+  <li>🎓 Formando em Sistemas de Informação e Engenharia de Software na FAG</li>
+</ul>
 
 ##
 
-<ul>
-  <li>💻 Dev Front-end desde 2018</li>
-  <li>🎓 Formada em Sistemas para Internet na Fiap</li>
-  <li>📱 Compartilhando conteúdos de desenvolvimento e da vida de dev no <a href="https://www.instagram.com/fornariii">Instagram</a></li>
-</ul>
-
- ##
-
-<div>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabevaz&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-## Oiii! Eu sou a Rafaella Ballerini 
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,7 +22,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
