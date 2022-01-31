@@ -1,12 +1,13 @@
 
   <b> Olá! </b> 👋
   <br> <b> Sou o Matheus e bem vindo(a) ao meu Github 🤓</b>
+    <br> <b> Aqui compartilho meus projetos de aprendizado </b>
  
  ##
 
 <ul>
-  <li>💻 Analista Implantação desde 2021</li>
-  <li>🎓 Formando em Sistemas de Informação e Engenharia de Software na FAG</li>
+  <li>💻 Analista de desenvolvimento de sistemas</li>
+  <li>🎓 Formando em Sistemas de Informação e cursando Engenharia de Software</li>
 </ul>
 
 ##
