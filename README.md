@@ -2,6 +2,7 @@
   <b> Olá! </b> 👋
   <br> <b> Sou o Matheus e bem vindo(a) ao meu Github 🤓</b>
     <br> <b> Aqui compartilho meus projetos de aprendizado </b>
+    <br> <b> Contato: matheuskanop@gmail.com </b>
  
  ##
 
