@@ -42,7 +42,9 @@
   <a href = "mailto:matheuskanop@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fornari-9a9727124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/matheusfornari96/matheusfornari96/blob/output/github-contribution-grid-snake.svg)
+<img href="https://raw.githubusercontent.com/matheusfornari96/matheusfornari96/blob/output/snake.svg" alt="Snake animation" />
+
+###
  
 </div>
 
