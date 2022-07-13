@@ -1,8 +1,9 @@
 
-  <b> Olá! </b> 👋
-  <br> <b> Sou o Matheus e bem vindo(a) ao meu Github 🤓</b>
-    <br> <b> Aqui compartilho meus projetos de aprendizado </b>
-    <br> <b> Contato: matheuskanop@gmail.com </b>
+<b> Olá! </b> 👋
+<br> <h2> Sou o Matheus</h2> 
+<br  <b> bem vindo(a) ao meu Github 🤓</b>
+<br> <b> Aqui compartilho meus projetos de aprendizado </b>
+<br> <b> Contato: matheuskanop@gmail.com </b>
  
  ##
 
