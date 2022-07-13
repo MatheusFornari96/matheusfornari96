@@ -43,8 +43,6 @@
   <a href="https://www.linkedin.com/in/matheus-fornari-9a9727124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <img href="https://raw.githubusercontent.com/matheusfornari96/matheusfornari96/blob/output/snake.svg" alt="Snake animation" />
-
-###
  
 </div>
 
