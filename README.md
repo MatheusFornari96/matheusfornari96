@@ -71,7 +71,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/matheusfornari96/matheusfornari96/blob/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/matheusfornari96/matheusfornari96/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
